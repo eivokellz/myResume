@@ -1,0 +1,6 @@
+COLORS
+
+#f0f8ff80 - black(rgba)
+#81d4fa - blue
+#f5f5f5 - grey
+#f5f5f5bf - grey(rgba)
